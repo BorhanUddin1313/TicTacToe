@@ -20,4 +20,5 @@ Edit
 
 # From the project root (where the .java file lives)
 javac TicTacToe.java
+
 java TicTacToe
